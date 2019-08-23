@@ -1,0 +1,6 @@
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\obj\Debug\MicroServicesDemo.Web.njsprojAssemblyReference.cache
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\obj\Debug\MicroServicesDemo.Web.njsproj.CoreCompileInputs.cache
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\cdwad\source\repos\CodePaLousa Talks 2019\MicroServicesDemo.Web\obj\Debug\MicroServicesDemo.Web.njsprojAssemblyReference.cache
+C:\Users\cdwad\source\repos\CodePaLousa Talks 2019\MicroServicesDemo.Web\obj\Debug\MicroServicesDemo.Web.njsproj.CoreCompileInputs.cache
+C:\Users\cdwad\source\repos\CodePaLousa Talks 2019\MicroServicesDemo.Web\bin\Microsoft.NodejsTools.WebRole.dll

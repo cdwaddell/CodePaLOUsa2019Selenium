@@ -1,0 +1,3 @@
+capabilities:
+  browserName: "chrome"
+baseUrl: "https://vue-vuex-realworld.netlify.com"

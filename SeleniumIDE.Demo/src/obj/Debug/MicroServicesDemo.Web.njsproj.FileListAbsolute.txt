@@ -1,0 +1,3 @@
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\src\obj\Debug\MicroServicesDemo.Web.njsprojAssemblyReference.cache
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\src\obj\Debug\MicroServicesDemo.Web.njsproj.CoreCompileInputs.cache
+C:\Users\cdwad\source\repos\MicroServiceViewBlog\MicroServicesDemo.Web\src\bin\Microsoft.NodejsTools.WebRole.dll

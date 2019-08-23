@@ -1,0 +1,25 @@
+npm install -g selenium-side-runner
+npm install -g chromedriver
+npm install -g edgedriver
+npm install -g geckodriver
+npm install -g iedriver
+
+selenium-side-runner -c "browserName=chrome"
+selenium-side-runner -c "browserName='internet explorer'"
+selenium-side-runner -c "browserName=edge"
+selenium-side-runner -c "browserName=firefox"
+selenium-side-runner -c "browserName=safari"
+selenium-side-runner -w 10 --server http://localhost:4444/wd/hub
+selenium-side-runner --base-url https://localhost
+selenium-side-runner --filter smoke
+
+selenium-side-runner --output-directory=results --output-format=junit
+selenium-side-runner --config-file "dev.side.yml"
+
+selenium-side-runner --params "a='example-value'"
+selenium-side-runner --params "a.b='another example-value'"
+selenium-side-runner --params "a.b.c=[1,2,3]"
+selenium-side-runner --params "a='example-value' a.b='another example-value' a.b.c=[1,2,3]"
+
+wait for element editable
+executeScript	window.scrollTo(0,1000)
